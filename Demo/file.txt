@@ -1,3 +1,3 @@
 Name: Abhijeet WADALKAR
-Location: yeola nashik
-Course: Git Practice
+Location: Nashik, Maharashtra
+Course: Web Development
