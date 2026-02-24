@@ -1,4 +1,3 @@
-Abhijeet
-WADALKAR
-
-yeola nashik
+Name: Abhijeet WADALKAR
+Location: Yeola
+Course: Full Stack Development
