@@ -3,3 +3,9 @@ Location: Yeola
 Course: Full Stack Development
 Age: 01
 DepartmentId: Abcd
+
+Manager : Sarika
+
+City 
+
+Birth date
